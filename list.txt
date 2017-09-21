@@ -1,3 +1,4 @@
+﻿FirstOfAll Github
 截图软件 SnapCrab
 快捷查看 Seer
 剪贴板管理 Ditto
@@ -12,3 +13,4 @@
 分享网站 lai.yuweining.cn
 字体渲染 MacType
 Markdown Typora
+任务栏透明 TranslucentTB
